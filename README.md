@@ -5,3 +5,4 @@
 4/27/2023. 1. búin að búa til hópa. 2. náði að gera alla users með sama password.
 4/28/2023. 1. búin að búa til möpur og öll premicions með því.
 ![alt text](https://github.com/thordur-petur/KEST2-Lokaverkefni/blob/main/verkefni%204.jpg?raw=true)
+gerði líka verkefni 4
